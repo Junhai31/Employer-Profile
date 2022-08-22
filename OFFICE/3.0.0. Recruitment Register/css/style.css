@@ -1,0 +1,81 @@
+body {
+    background-color: rgb(588, 167, 144)
+}
+
+label {
+    color: black;
+}
+
+
+.first {
+    color: black;
+    font-size: 24px;
+    text-align: left;
+
+}
+
+.first p {
+    display: inline;
+}
+
+.search-candidate  {
+    display: inline;
+    text-align: left;
+}
+
+.add {
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+    float: right;
+    margin-right: 2px;
+}
+
+.container-fluid{
+    background:#ECF0F5;
+}
+label{
+    font-weight: bold;
+   
+}
+
+.Reset{
+    float: right;
+}
+.nav p {
+
+    font-size: 10px;
+    display: inline;
+}
+
+p {
+    display: table;
+    margin-bottom: 0 !important;
+    margin-top: 0;
+}
+
+.nav-right {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+h2 {
+    display: inline;
+    font-size: 45px;
+}
+
+.row1 {
+    margin: 5px;
+    padding: 5px;
+    font-size: 15px;
+}
+
+.row2 {
+    margin-bottom: 5px;
+    padding: 5px;
+    font-size: 15px;
+}
+
+.Excel {
+    background-color: blue;
+    color: rgb(223, 223, 235);
+}

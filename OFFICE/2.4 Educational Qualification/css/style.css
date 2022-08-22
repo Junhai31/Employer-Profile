@@ -1,0 +1,84 @@
+
+.user-info h6{
+    margin-bottom: 0!important;
+    
+}
+.user-info a{
+    margin: 0!important;
+    padding: 5px 5px;
+    font-size: 9px;
+}
+
+.user-info h6{
+    
+    display: inline;
+    float: left;
+}
+.text-center{
+ margin-bottom: 0;
+    float: left;
+}
+.emergency-contact h6{
+display: inline;
+float: left;
+}
+.text-center{
+    float: left;
+}
+.container a{
+    word-wrap: 
+}
+
+.fundamental{
+    padding: 3px 5px
+}
+.Reports{
+    
+    padding: 5px;
+    font-size:20px;
+}
+
+.Reports a{
+    padding: 5px;
+    font-size: 11px!important;
+    text-decoration: none;
+}
+.card{
+    height: 65px;  
+    display: table!important;
+    width: 100%;
+}
+.more{
+    display: block;
+    
+}
+.more2{
+    display: table-cell;
+    vertical-align: middle
+}
+.bar{
+    border-top: 10px solid green;
+    padding-top: 20px;
+}
+
+.Employ-Details h6{
+    font-size: 12px;
+}
+
+.emergency-contact {
+padding: 20px;
+font-size: 10px;
+}
+
+.emergency-contact h4{
+    font-size: 20px;
+}
+.emergency-contact h6{
+    font-size: 10px;
+}
+
+.table-bordered{
+    max-width:75%;
+    font-size: 12px;;
+
+}

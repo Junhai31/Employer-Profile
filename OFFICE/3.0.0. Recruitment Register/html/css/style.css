@@ -1,0 +1,45 @@
+body{
+background-color: violet;
+}
+.BUTTON a{
+    text-decoration: none;
+    color: darkgreen;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.BUTTON{
+float: right;
+    padding: 10px;
+    
+}
+.user-info{
+    width: 20%;
+    float: left;
+    
+}
+.box{
+    
+    border: 1px solid black;
+}
+.textbox{
+    font-size: 12px;
+}
+.form-ccontrol{
+    line-height: 0!important;
+    padding: 0!important;
+}
+.input input{
+    line-height: 0.05;
+    padding: 0px 4px;
+    width: 100%;
+}
+
+.img-thumbnail{
+    width: 139px;
+    height: 161px!important;
+    object-fit: cover;
+}
+h4{
+    font-size: 12px! important;
+    

@@ -1,0 +1,60 @@
+body{
+	background-color:  lightcoral;
+
+}
+
+.forget{
+  display : grid;
+  background-color: lightblue;
+
+    width: 20em;
+    float: right;
+    margin-top:  150px;
+    margin-right:  300px;
+    padding: 20px 25px;
+}
+
+.forgot-password{
+	float:  right;
+	
+
+}
+.forgot-password a{
+	text-decoration: none;
+	
+}
+
+
+.item{
+	width: 97%;
+    height: 23px;
+    border: none;
+    padding: 5px;
+    border-radius: 208px
+
+}
+
+.item1{
+	color:  #BB5039;
+	text-align:  center;
+	
+	
+}
+
+.item2{
+	width: 97%;
+    height: 23px;
+    border: none;
+    padding: 5px;
+    border-radius: 208px;
+    margin-top: 25px;
+    color:  black;
+    background-color: green;
+	
+}
+
+.forget h1{
+	margin: 0;
+}
+
+
